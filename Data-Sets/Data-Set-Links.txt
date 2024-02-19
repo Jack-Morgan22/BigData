@@ -1,0 +1,5 @@
+**Google Play Store Applications**
+https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications?resource=download
+
+**Apple Play Store Applications**
+https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps
