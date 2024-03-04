@@ -3,3 +3,12 @@ https://www.kaggle.com/datasets/bhavikjikadara/google-play-store-applications?re
 
 **Apple Play Store Applications**
 https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps
+
+**Graduate activities by provider and sex | HESA**
+https://www.hesa.ac.uk/data-and-analysis/graduates/table-1
+
+**Constituency data: Socio-economic status, 2021 census**
+https://commonslibrary.parliament.uk/find-the-socio-economic-status-of-people-living-in-england-and-wales-by-constituency/
+
+**ighest level of qualification by economic activity status | Nomis**
+https://www.nomisweb.co.uk/datasets/c2021rm048
